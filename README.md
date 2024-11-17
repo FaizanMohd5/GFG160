@@ -3,14 +3,12 @@
 Are you preparing for technical interviews and would like to be well-structured to improve your problem-solving skills? Well, we have good news for you! GeeksforGeeks proudly presents GfG160, a 160-day coding challenge starting on 15th November 2024. In this event, we will provide daily coding problems curated to help you ace your technical interviews.
 
 # **GfG160: 160 Days of Problem-Solving – Your Ultimate Interview Preparation Journey!**
-gfg-160
 
 # **What is GfG160?**
 - GfG160 is designed to offer a comprehensive, topic-wise coding challenge over the span of 160 days. Every day, participants will receive a handpicked coding problem that covers a variety of topics essential for interviews, making it perfect for students and working professionals aiming to sharpen their skills. Along with the problem, you’ll get access to relevant articles and editorial videos that break down the solution, ensuring you gain deep insights into each topic.
 
 # Free Course with Self-Paced Learning
 - In addition to daily challenges, participants will also have access to this self paced course designed around 160 DSA problems. Each problem of the course will be released the next day of Problem challenges, providing you with structured learning on a regular basis. The course also includes bonus problems in each topic, allowing you to further hone your skills.
-
 - With progress tracking, this self-paced course ensures you can monitor your improvement over time, making it an ideal resource to complement your daily problem-solving efforts.
 
 # **Why Join GfG160?**
